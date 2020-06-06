@@ -1,0 +1,5 @@
+/home/frederico/workspace/devdojo-microservices/token/src/main/java/academy/devdojo/youtube/security/config/SecurityTokenConfig.java
+/home/frederico/workspace/devdojo-microservices/token/src/main/java/academy/devdojo/youtube/security/token/converter/TokenConverter.java
+/home/frederico/workspace/devdojo-microservices/token/src/main/java/academy/devdojo/youtube/security/filter/JwtTokenAuthorizationFilter.java
+/home/frederico/workspace/devdojo-microservices/token/src/main/java/academy/devdojo/youtube/security/util/SecurityContextUtil.java
+/home/frederico/workspace/devdojo-microservices/token/src/main/java/academy/devdojo/youtube/security/token/creator/TokenCreator.java
